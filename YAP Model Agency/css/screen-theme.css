@@ -1,0 +1,284 @@
+.nex-vx-slider .nex-slider {
+    padding: 0;
+    box-shadow: 0 0 0 0;
+}
+.nex-logo h1 {
+    padding-top: 6px;
+}
+.sectionwelcome {
+    background-image: url('../img/slide-2.jpg');
+    background-size: cover;
+    position: relative;
+    z-index: 1;
+    padding-bottom: 80px;
+}
+.statsec {
+    background-image: url('../img/slide-3.jpg');
+    background-size: cover;
+    position: relative;
+    z-index: 1;
+}
+.statsec .bg-transparency,
+.sectionwelcome .bg-transparency {
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0,0,0,0.5);
+}
+.statsec .container,
+.sectionwelcome .nex-vx-callaction {
+    position: relative;
+    z-index: 3;
+}
+.pb0 {
+	padding-bottom: 0;
+}
+.nex-header-bar {
+    background-color: #000000;
+    color: #7f7f7f;
+}
+.nex-vx-breadcrumbs {
+	background-image: url('../img/slide-3.jpg');
+	background-size: cover;
+}
+.nex-vx-main-nav ul li a {
+    font-weight: 100;
+}
+.nex-v1-projectpage .project-sidebar p {
+    color: #666;
+    font-size: 14px;
+    line-height: 1.8em;
+}
+.nex-v1-projectpage .project-sidebar .project-details li {
+    text-align: right;
+    border-bottom: 1px dotted #e1e1e1;
+}
+.nex-v1-projectpage .project-sidebar .project-details li:last-child {
+    border-bottom: 0;
+}
+.nex-v1-projectpage .project-sidebar .project-details li span {
+    text-align: left;
+}
+.page .hentry ul li, .page .hentry ol li, .nex-comment-box ul li, .nex-comment-box ol li, .post .nex-content ul li, .post .nex-content ol li {
+    font-size: 16px;
+}
+.nex-map iframe {
+	width: 100%;
+	height: 400px;
+}
+.nex-v5-post:after {
+    background: rgba(0,0,0,0.4);
+}
+.nex-vx-footer {
+	border-top: 3px solid;
+}
+.nex-vx-footer .nex-logo {
+    margin: 65px 0 25px;
+}
+.nex-v1-callaction .nex-v1-button {
+    border: 1px solid #fff;
+    background: #fff;
+    color: #333;
+}
+.nex-v1-callaction .nex-v1-button:hover {
+    background: none;
+    color: #fff;
+}
+.nex-slider .nex-footer {
+    padding-top: 50px;
+}
+.nex-slider .nex-footer .nex-v1-button {
+    color: #fff;
+    border: 1px solid #fff;
+}
+.nex-slider .nex-footer .nex-v1-button:hover {
+    background: #fff;
+    color: #333;
+}
+.nex-vx-slider .nex-slider .nex-slide-text h3 {
+    margin-bottom: 100px;
+}
+.nex-vx-slider .nex-slider .nex-slide-text p {
+    margin: 30px auto 15px;
+    font-size: 15px;
+    line-height: 2em;
+    font-weight: 300;
+    max-width: 800px;
+}
+.nex-vx-breadcrumbs .site-title h1 {
+	font-weight: 400;
+}
+.nex-v1-projectpage .nex-project-slider img {
+	width: 100%;
+}
+.nex-header-bar .nex-socials li a {
+	color: inherit;
+}
+.callaction {
+	background: url("../img/slide-1.jpg");
+	background-size: cover;
+	position: relative;
+	z-index: 1;
+}
+.callaction .bg-transparency {
+	background: rgba(0,0,0,0.6);
+	z-index: 2;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+.callaction .nex-vx-callaction {
+	position: relative;
+	z-index: 3;
+}
+.sectionTwitt {
+	background: url("../img/slide-3.jpg");
+	background-size: cover;
+	position: relative;
+	z-index: 1;
+	font-size: 16px;
+	line-height: 1.7em;
+	padding-bottom: 100px;
+}
+.sectionTwitt .bg-transparency {
+	background: rgba(255,255,255,0.8);
+	z-index: 2;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+.sectionTwitt .container {
+	position: relative;
+	z-index: 3;
+}
+.sectionTwitt .container span {
+	display: block;
+	color: #777;
+	font-size: 14px;
+	line-height: 1.5em;
+}
+
+/* Primary Color */
+.nex-v3-button:hover,
+.nex-v2-portfolio .isotopeFilter li button.active,
+.nex-v2-portfolio .isotopeFilter li button:hover,
+.nex-v3-post .post-header p a,
+.nex-vx-footer .nex-footer-menu li a:hover,
+.nex-services-slider .slick-arrow.slick-prev:after,
+.nex-services-slider .slick-arrow.slick-next:after,
+.current-menu-item .nex-cch,
+.nex-vx-main-nav .main-menu > li:hover > a, 
+.nex-vx-main-nav .main-menu > li.current-menu-item > a,
+.widget .widget-title span,
+.widget.nex-widget-vx-twitter ul li a,
+.nex-header-bar .nex-socials li a:hover,
+.nex-v7-pricing .nex-switch-row,
+.nex-v7-pricing .nex-content,
+.nex-vx-post .nex-footer .nex-tags li a:hover,
+.nex-v7-pricing .nex-footer a:hover,
+.nex-cch:hover,
+.nex-v2-post .nex-header h2 a:hover,
+.nex-cca:after,
+.nex-v9-service .nex-footer a,
+.nex-v5-pricing.highlight-col .nex-footer a, 
+.nex-v5-pricing.highlight-col .nex-content span, 
+.nex-v5-pricing.highlight-col .nex-header h3,
+.mptt-shortcode-wrapper ul.mptt-menu li a:hover,
+.nex-v2-accordion .panel-group .panel-heading a:focus,
+.nex-v2-accordion .panel-group .panel-heading a:hover,
+.mptt-shortcode-wrapper ul.mptt-menu li.active a,
+.nex-vx-footer .logo a span,
+.nex-logo h1 a span,
+.nex-cc {
+    color: #a58348 !important;
+}
+.nex-v7-pricing .nex-footer a,
+.nex-v2-accordion .panel-group .panel .panel-heading:before,
+.nex-v2-accordion .panel-group .panel .panel-heading:after,
+.nex-title:after,
+.nex-v3-button,
+.nex-v1-pricing .nex-footer a,
+.nex-bgactive.active,
+.nex-v9-service .nex-footer a:hover,
+.nex-bgch:hover,
+.nex-bgca:after,
+.nex-bgcb:before,
+.nex-bgc {
+    background-color: #a58348 !important;
+}
+.nex-v7-pricing .nex-footer a,
+.mptt-shortcode-wrapper ul.mptt-menu li a:hover,
+.mptt-shortcode-wrapper ul.mptt-menu li.active a,
+.nex-v2-portfolio .isotopeFilter li button.active,
+.nex-v2-portfolio .isotopeFilter li button:hover,
+.nex-v2-portfolio .nex-cc:hover,
+.nex-v2-portfolio .nex-cc.active,
+.nex-v1-portfolio .nex-cc:hover,
+.nex-v3-button,
+.nex-v1-pricing.highlight-col,
+.nex-v1-portfolio .nex-cc.active,
+.nex-v9-service .nex-footer a,
+.nex-bch:hover,
+.nex-bcf:focus,
+.nex-v5-pricing.highlight-col .nex-footer a,
+.nex-v5-pricing.highlight-col .nex-header, 
+.nex-v5-pricing.highlight-col,
+.nex-bc {
+    border-color: #a58348 !important;
+}
+
+/* Secondary color */
+.nex-v6-pricing .nex-footer a:hover,
+.nex-v6-pricing.highlight-col .nex-footer a,
+.nex-cch2:hover,
+.nex-cca2:after,
+.nex-cc2 {
+    color: #a58348 !important;
+}
+.nex-v6-pricing.highlight-col,
+.nex-v6-pricing .nex-footer a,
+.nex-bgactive2.active,
+.nex-bgch2:hover,
+.nex-bgca2:after,
+.nex-bgcb2:before,
+.nex-bgc2 {
+    background-color: #a58348 !important;
+}
+.nex-v6-pricing .nex-footer a:hover,
+.nex-bch2:hover,
+.nex-bcf2:focus,
+.nex-bc2 {
+    border-color: #a58348 !important;
+}
+.mptt-shortcode-wrapper .mptt-shortcode-table tr.mptt-shortcode-row th {
+    color: #fff;
+    background-color: #a58348 !important;
+}
+
+/* Double Color */
+.nex-testimonials-slider .slick-dots li button:hover,
+.nex-testimonials-slider .slick-dots li.slick-active button,
+.nex-vx-slider .slick-dots li button:hover,
+.nex-vx-slider .slick-dots li.slick-active button,
+.nex-services-slider .slick-dots li button:hover,
+.nex-services-slider .slick-dots li.slick-active button,
+.nex-bglrh:hover,
+.nex-bglr {
+    background-image: linear-gradient(45deg, #a58348 0%, #a58348 100%);
+}
+.bg-image:before {
+    background-image: linear-gradient(-225deg, #a58348 0%, #a58348 100%);
+}
+.nex-bgrl {
+    background-image: linear-gradient(-45deg, #a58348 0%, #a58348 100%);
+}
+.nex-v7-pricing .nex-header-title h4 {
+    background-image: linear-gradient(-90deg, #a58348 3%, #a58348 100%);
+}
